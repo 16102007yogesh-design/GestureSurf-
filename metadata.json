@@ -1,0 +1,6 @@
+{
+  "name": "Hand Gesture Subway Runner",
+  "description": "Endless 3D subway runner controlled with real-time hand tracking gestures, jumps, slides, and lane switches.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
